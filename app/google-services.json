@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691948444806",
+    "project_id": "democloudmessenge",
+    "storage_bucket": "democloudmessenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691948444806:android:bc1f80591ccd13975d8507",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691948444806-sqi1cj4blj9u91ul7bh9s8cdbhte2uop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecloudmessaging",
+            "certificate_hash": "41036283a7731aef1648dbe5bed225cb0846d978"
+          }
+        },
+        {
+          "client_id": "691948444806-4dfr19frupg2c6mp4aq6stm1gafv9qqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5bFkyBf2wiKB-vXHTQ5wktOxNILbs8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691948444806-4dfr19frupg2c6mp4aq6stm1gafv9qqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
